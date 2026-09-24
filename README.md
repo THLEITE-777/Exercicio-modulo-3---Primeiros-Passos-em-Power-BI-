@@ -66,6 +66,4 @@ Durante a execução deste desafio, foi possível consolidar os seguintes concei
 Desenvolvido por **Thiago Viana Leite**  
 - **GitHub:** [@THLEITE-777](https://github.com/THLEITE-777)
 - **LinkedIn:** [Thiago Viana Leite](https://linkedin.com/in/thiago-viana-leite-b5a77a300)
-Desenvolvido por **Thiago Viana Leite**  
-- **GitHub:** [@THLEITE-777](https://github.com/THLEITE-777)
-- **LinkedIn:** [Thiago Viana Leite](https://linkedin.com/in/thiago-viana-leite-b5a77a300)
+
